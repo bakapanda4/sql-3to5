@@ -1,2 +1,5 @@
 -- create database
-create database roni;
+create database ronak;
+
+--delete database
+drop database ronak;
